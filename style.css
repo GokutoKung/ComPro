@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif&display=swap');
+body{
+    /* https://www.wallpaperflare.com/female-anime-character-anime-girls-white-hair-long-hair-sky-wallpaper-lpy/download/3840x2160 */
+    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('Picture/bg_main.jpg');
+    background-repeat: no-repeat; 
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
+
+.head_font{
+    font-size: 250px;
+    font-family: 'Dancing Script', cursive;
+    color: rgba(255, 255, 255, 0.973);
+}
+
+.body_card_font{
+    font-size: 20px;
+    font-family: 'Noto Serif', serif;
+    color: rgb(12, 11, 11);
+    height:60%;
+    min-height:60%;
+}
+
+.body_genres{
+    font-size: 12px;
+    font-family: 'Noto Serif', serif;
+    color: rgba(14, 46, 226, 0.932);
+    text-align: left;
+    height:40%;
+    min-height:40%;
+}
+
+/* https://codepen.io/salibaray/pen/dGZebP */
+/* .odinMainContainer
+{
+  width:98%;
+  min-width:98%;
+  max-width:98%;
+  height:90%;
+  height:95vh;
+  min-height:95%;
+  overflow:hidden;
+  padding:1%;
+  margin:0;
+  display: -webkit-flex;
+  display:flex;
+  flex-direction:row;
+  flex-wrap:wrap;
+  justify-content:flex-start;
+  align-self:auto;
+  align-items:flex-start;
+  align-content:flex-start;
+  background-color:grey;
+}
+
+.odinLeftSidebarContainer
+{
+  width:98%;
+  min-width:98%;
+  max-width:98%;
+  height:46.25%;
+  min-height:46.25%;
+  overflow:hidden;
+  padding:1%;
+  margin:0;
+  background-color:rgb(255, 255, 255);
+}
+
+.odinMainContentContainer
+{
+  width:98%;
+  min-width:98%;
+  max-width:98%;
+  height:46.25%;
+  min-height:46.25%;
+  overflow:hidden;
+  padding:1%;
+  margin:0;
+  background-color:rgb(255, 255, 255);
+} */
